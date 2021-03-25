@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/insertionsort1/problem
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=L7E3KnKwDco
  * Last verified on: 14 February, 2021
  */
 

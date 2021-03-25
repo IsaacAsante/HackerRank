@@ -1,6 +1,8 @@
+// TODO: Record the video for the "Simple Array Sum" challenge in C++.
+
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/simple-array-sum/problem
- * Original video explanation: N/A
+ * Original video explanation: Pending
  * Last verified on: 16 February, 2021
  */
 

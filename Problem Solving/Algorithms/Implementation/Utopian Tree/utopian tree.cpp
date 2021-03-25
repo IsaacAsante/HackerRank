@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/utopian-tree/problem
- * Original video explanation: N/A
+ * Original video explanation: https://www.youtube.com/watch?v=pBTHYj_r4Tk
  * Last verified on: March 16, 2021
  */
 

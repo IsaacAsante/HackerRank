@@ -1,6 +1,8 @@
+// TODO: Record the video for the "Breadth First Search - Short Reach" challenge in C++.
+
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/bfsshortreach/problem
- * Updated video explanation: N/A
+ * Updated video explanation: Pending
  * Last verified on: March 8, 2021
  */
 
