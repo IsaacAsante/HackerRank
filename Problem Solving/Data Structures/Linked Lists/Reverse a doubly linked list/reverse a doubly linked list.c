@@ -1,4 +1,4 @@
-// TODO: Record the video for the "Reverse a Doubly Linked List" challenge in C++. The updated code may be simplified.
+// TODO: Record the video for the "Reverse a Doubly Linked List" challenge in C++.
 
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
