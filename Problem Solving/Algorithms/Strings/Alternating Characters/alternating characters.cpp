@@ -1,9 +1,7 @@
-// TODO: Record the video for the "Alternating Characters" challenge in C++.
-
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/alternating-characters/problem
- * Original video explanation: Pending
- * Last verified on: March 26, 2021
+ * Original video explanation: https://www.youtube.com/watch?v=rMEiTNZUJVg
+ * Last verified on: May 16, 2021
  */
 
 /* IMPORTANT:

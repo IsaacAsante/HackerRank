@@ -1,8 +1,6 @@
-// TODO: Record the video for the "Struct" challenge in C++.
-
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/c-tutorial-struct/problem
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=b4J3ag4TPZk
  * Last verified on: April 17, 2021
  */
 

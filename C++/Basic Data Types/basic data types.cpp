@@ -24,10 +24,10 @@ int main() {
 
     cin >> i >> l >> c >> f >> d;
 
-    cout << i << endl
-        << l << endl
-        << c << endl
-        << fixed << setprecision(3) << f << endl
+    cout << i << '\n'
+        << l << '\n'
+        << c << '\n'
+        << fixed << setprecision(3) << f << '\n'
         << fixed << setprecision(9) << d << endl;
     return 0;
 }
