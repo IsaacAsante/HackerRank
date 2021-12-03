@@ -1,8 +1,6 @@
-// TODO: Record the video for the "Correctness and the loop invariant" challenge in C++.
-
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/correctness-invariant/problem
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=PJDdsy-qBDQ
  * Last verified on: 14 February, 2021
  */
 

@@ -1,9 +1,7 @@
-// TODO: Record the video for the "Exceptional Server" challenge in C++.
-
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/exceptional-server/problem
- * Original video explanation: Pending
- * Last verified on: April 17, 2021
+ * Original video explanation: https://www.youtube.com/watch?v=BmoHhfk0bMw
+ * Last verified on: June 20, 2021
  */
 
 /* IMPORTANT:

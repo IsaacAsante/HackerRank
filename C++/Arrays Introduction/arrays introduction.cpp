@@ -1,9 +1,7 @@
-// TODO: Record the video for the "Arrays Introduction" challenge in C++.
-
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/arrays-introduction/problem
- * Original video explanation: Pending
- * Last verified on: April 17, 2021
+ * Original video explanation: https://www.youtube.com/watch?v=DKXcdwNYl5k
+ * Last verified on: June 26, 2021
  */
 
 /* IMPORTANT:
@@ -11,9 +9,7 @@
  * Some headers were added/modified.
  */
 
-#include <cstdio>
 #include <iostream>
-#include <algorithm>
 #include <sstream>
 #include <string>
 using namespace std;

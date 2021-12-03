@@ -1,8 +1,6 @@
-// TODO: Record the video for the "Rectangle Area" challenge in C++.
-
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/rectangle-area/problem
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=7GyexVc9cD0
  * Last verified on: April 17, 2021
  */
 
