@@ -2,8 +2,8 @@
 
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/the-birthday-bar/problem
- * Original video explanation: Pending
- * Last verified on: March 27, 2021
+ * Original video explanation: https://www.youtube.com/watch?v=fmNMibWITPs
+ * Last verified on: March 3, 2023
  */
 
 /* IMPORTANT:
