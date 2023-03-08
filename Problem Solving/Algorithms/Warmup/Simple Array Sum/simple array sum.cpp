@@ -2,7 +2,7 @@
 
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/simple-array-sum/problem
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=pyyAYJNSGm8
  * Last verified on: 16 February, 2021
  */
 

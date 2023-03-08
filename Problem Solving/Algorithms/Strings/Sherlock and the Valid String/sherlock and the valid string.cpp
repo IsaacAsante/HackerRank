@@ -2,8 +2,8 @@
 
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
- * Original video explanation: Pending
- * Last verified on: 05 January, 2022
+ * Original video explanation: https://www.youtube.com/watch?v=Lm9RrHZKXhc
+ * Last verified on: 06 January, 2023
  */
 
 /* IMPORTANT:

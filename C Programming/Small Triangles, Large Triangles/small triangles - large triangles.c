@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=VqAn0uLSmZs
  * Last verified on: January 24, 2023
  */
 
