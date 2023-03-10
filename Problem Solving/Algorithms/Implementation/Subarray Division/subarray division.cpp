@@ -1,4 +1,3 @@
-// TODO: Record the video for the "Subarray Division" challenge in C++.
 
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/the-birthday-bar/problem

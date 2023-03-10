@@ -1,9 +1,8 @@
-// TODO: Record the video for the "Maps-STL" challenge in C++.
 
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/cpp-maps/problem
- * Original video explanation: Pending
- * Last verified on: April 17, 2021
+ * Original video explanation: https://www.youtube.com/watch?v=TKTQMqHgqRo
+ * Last verified on: March 11, 2023
  */
 
 /* IMPORTANT:
