@@ -2,8 +2,8 @@
 
 /* Author: Isaac Asante
  * HackerRank URL for this exercise: https://www.hackerrank.com/challenges/circular-array-rotation/problem
- * Original video explanation: Pending
- * Last verified on: March 25, 2021
+ * Original video explanation: https://www.youtube.com/watch?v=T1Hk8PVfPt4
+ * Last verified on: March 12, 2023
  */
 
 /* IMPORTANT:
